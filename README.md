@@ -5,4 +5,7 @@ The objective of this project is to detect plant leaf diseases using Convolution
 It aims to assist farmers and researchers by providing an automated, accurate, and cost-effective system to identify diseases from leaf images — reducing crop loss and improving yield quality.
 ## Dataset Used
 - <a
-href = "https://www.kaggle.com/datasets/vipoooool/new-plant-diseases-dataset">Dataset</a>
+href = "https://www.kaggle.com/datasets/vipoooool/new-plant-diseases-dataset">
+Dataset1</a>
+- <a
+- href = "https://www.kaggle.com/datasets/fpeccia/weed-detection-in-soybean-crops">Dataset2</a>
