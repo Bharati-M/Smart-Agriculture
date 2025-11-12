@@ -24,7 +24,7 @@ href = "https://www.kaggle.com/datasets/fpeccia/weed-detection-in-soybean-crops"
 - Model Evaluation - Accuracy, Precision, Recall, F1-score, and Confusion Matrix evaluated.
 - Model Saving - Saved model as plant_disease_model.pth.
   ## Results
-  - Training Accuracy: 96.4%
-  - Validation Accuracy: 93.7%
-  - Model Size: 7.8 MB (Lightweight)
-  - Detects 38 diseases across 14 crops
+ - Training Accuracy: 96.4%
+ - Validation Accuracy: 93.7%
+ - Model Size: 7.8 MB (Lightweight)
+ - Detects 38 diseases across 14 crops
