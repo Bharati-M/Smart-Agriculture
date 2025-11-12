@@ -8,4 +8,4 @@ It aims to assist farmers and researchers by providing an automated, accurate, a
 href = "https://www.kaggle.com/datasets/vipoooool/new-plant-diseases-dataset">
 Dataset1</a>
 - <a
-- href = "https://www.kaggle.com/datasets/fpeccia/weed-detection-in-soybean-crops">Dataset2</a>
+href = "https://www.kaggle.com/datasets/fpeccia/weed-detection-in-soybean-crops">Dataset2</a>
