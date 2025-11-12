@@ -23,3 +23,13 @@ href = "https://www.kaggle.com/datasets/fpeccia/weed-detection-in-soybean-crops"
 - Model Training - Trained on 80% of data, validated on 20%.
 - Model Evaluation - Accuracy, Precision, Recall, F1-score, and Confusion Matrix evaluated.
 - Model Saving - Saved model as plant_disease_model.pth.
+  ## Architecture Diagram
+  Input Image
+     ↓
+Preprocessing (Resize, Normalize, Augment)
+     ↓
+CNN Feature Extraction (Conv + Pool layers)
+     ↓
+Classification (Dense + Softmax)
+     ↓
+Output: Healthy / Diseased (Disease Name)
