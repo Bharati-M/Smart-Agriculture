@@ -16,3 +16,10 @@ href = "https://www.kaggle.com/datasets/fpeccia/weed-detection-in-soybean-crops"
 - Can a lightweight CNN model perform comparably to heavy pretrained models (VGG16, ResNet)?
 - How can accuracy and inference speed be balanced for mobile or low-resource environments?
 - What are the limitations of current deep learning models in real-field plant disease detection?
+## Process
+- Data Collection - Gathered data.
+- Data Preprocessing - Image resizing (128×128), Normalization (0–1 range), Data augmentation (rotation, brightness, flip, zoom)
+- Model Design - Built a Custom CNN using PyTorch.
+- Model Training - Trained on 80% of data, validated on 20%.
+- Model Evaluation - Accuracy, Precision, Recall, F1-score, and Confusion Matrix evaluated.
+- Model Saving - Saved model as plant_disease_model.pth.
