@@ -28,3 +28,6 @@ href = "https://www.kaggle.com/datasets/fpeccia/weed-detection-in-soybean-crops"
  - Validation Accuracy: 93.7%
  - Model Size: 7.8 MB (Lightweight)
  - Detects 38 diseases across 14 crops
+## Conclusion
+This project demonstrates that deep learning can accurately detect plant diseases from images, making it a valuable tool for farmers and researchers.
+With further enhancement, it can be integrated into real-time smart farming systems.
